@@ -77,3 +77,8 @@ Romance Dawn
 <br>
 
 转载请注明：[呵呵哒！o(*￣︶￣*)o的博客](http://toothpaste5576.github.io) » [点击阅读原文](http://toothpaste5576.github.io/2018/06/21)
+{% include JB/setup %}
+
+{% assign posts_collate = site.posts %}
+<div class="page card">
+{% include JB/posts_collate %}
