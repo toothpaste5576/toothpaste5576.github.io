@@ -10,7 +10,7 @@ title: 关于呵呵哒！
 了解一些 前端 基本概念和 Python 的简单用法。
 
 <p>
-
+<img src="/image/1.jpg" width="260" height="440" align="left"/>
 <h3> 呵呵哒！的博客 </h3>  
 
 <p>
@@ -22,7 +22,7 @@ title: 关于呵呵哒！
 如果你想搭建一个跟我一样的博客，可以看我的喔
 <a href="/2016/10/jekyll_tutorials1/"> 呵呵哒！ 搭建个人博客 </a>
 教程
-
+<img src="/image/2.jpg" width="260" height="440" align="left"/>
 <p>
 
 呵呵哒的博客
@@ -34,7 +34,7 @@ title: 关于呵呵哒！
 <p> 
 
 <p> 
-
+<img src="/image/3.jpg" width="260" height="440" align="left"/>
 <p> 
 
 
