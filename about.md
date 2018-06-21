@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 关于呵呵哒！
+<embed src="./1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
 ---
 <p>
-<embed src="./1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
+
   
 一个 iOS SDK 开发者，喜欢研究一些新技术，喜欢学习，喜欢唱歌，喜欢写代码，喜欢一些小游戏，喜欢看书......
 
