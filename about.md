@@ -3,11 +3,8 @@ layout: page
 title: 关于呵呵哒！
 ---
 <p>
-  <embed src="1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
-  
-  <audio autoplay="autoplay" height="100" width="100">
-
-  <source src="1.mp3" type="audio/mp3" />
+  <embed src="/1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
+ 
 
   
   
