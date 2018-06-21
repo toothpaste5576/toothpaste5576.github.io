@@ -2,11 +2,11 @@
 layout: page
 title: 关于呵呵哒！
 ---
-
+<p>
 一个 iOS SDK 开发者，喜欢研究一些新技术，喜欢学习，喜欢唱歌，喜欢写代码，喜欢一些小游戏，喜欢看书......
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
-
+<p>
 了解一些 前端 基本概念和 Python 的简单用法。
 <img src="/images/1.jpg" width="200" height="440" align="left"/>
 
