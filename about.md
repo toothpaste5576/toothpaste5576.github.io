@@ -35,16 +35,8 @@ title: 关于呵呵哒！
 <img src="/images/3.gif" width="260" height="440" align="left"/>
 <p> 
   
-<embed src="http://www.xiami.com/widget/0_1770124689/singlePlayer.swf"
-
- type="application/x-shockwave-flash"
-
- width="257"
-
- height="33"
-
+<embed src="http://www.xiami.com/widget/0_1770124689/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33"
  wmode="transparent">
-
 </embed>
   
   
