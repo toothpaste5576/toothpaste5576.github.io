@@ -2,7 +2,7 @@
 layout: page
 title: 关于呵呵哒！
 ---
-<p style="background-image: url(images/2.jpg)">
+
 一个 iOS SDK 开发者，喜欢研究一些新技术，喜欢学习，喜欢唱歌，喜欢写代码，喜欢一些小游戏，喜欢看书......
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
