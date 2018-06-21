@@ -6,13 +6,6 @@ description: "HEXO配置，HEXO+Github，搭建自己的博客"
 tag: 博客 
 ---   
 
-　---
-layout: post
-title: "《海贼王》"
-date: 2015-09-26 18:15:06 
-description: "呵呵哒！o(*￣︶￣*)o"
-tag: 田荣一郎
----
 
 
 这里将介绍下我们日常开发一些从iOS8过度到iOS9给我们带来的一些变化，及解决方法。
