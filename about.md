@@ -22,7 +22,7 @@ title: 关于呵呵哒！
 如果你想搭建一个跟我一样的博客，可以看我的喔
 <a href="/2016/10/jekyll_tutorials1/"> 呵呵哒！ 搭建个人博客 </a>
 教程
-<img src="/images/2.jpg" width="260" height="440" align="left"/>
+<img src="/images/2.gif" width="260" height="440" align="left"/>
 <p>
 
 呵呵哒的博客
@@ -34,7 +34,7 @@ title: 关于呵呵哒！
 <p> 
 
 <p> 
-<img src="/images/3.jpg" width="260" height="440" align="left"/>
+<img src="/images/3.gif" width="260" height="440" align="left"/>
 <p> 
 
 
