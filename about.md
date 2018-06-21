@@ -38,7 +38,7 @@ title: 关于呵呵哒！
 <p> 
 <img src="/images/3.gif" width="260" height="440" align="left"/>
 <p> 
- </embed>
+
 <p> 
 
 
