@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于呵呵哒！
-<embed src="./1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
+
 ---
 <p>
 
@@ -40,7 +40,7 @@ title: 关于呵呵哒！
 <p> 
 
 <p> 
-
+<embed src="./1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
 
 
 
