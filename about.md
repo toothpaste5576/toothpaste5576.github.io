@@ -6,7 +6,7 @@ title: 关于呵呵哒！
 
   
 一个 iOS SDK 开发者，喜欢研究一些新技术，喜欢学习，喜欢唱歌，喜欢写代码，喜欢一些小游戏，喜欢看书......
-<embed src="../1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="10" width="10">
+<embed src="./1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="10" width="10">
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
 <p>
