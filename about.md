@@ -26,7 +26,7 @@ title: 关于呵呵哒！
 <p>
 
 呵呵哒的博客
-<embed src="1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
+
 <p> 
 
 博客源码在 <a target="_blank" href='https://github.com/toothpaste5576/toothpaste5576.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
@@ -34,7 +34,7 @@ title: 关于呵呵哒！
 <p> 
 <img src="/images/3.gif" width="260" height="440" align="left"/>
 <p> 
-
+<embed src="1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
 <p> 
 
 
