@@ -4,6 +4,13 @@ title: 关于呵呵哒！
 ---
 <p>
   <embed src="1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
+  
+  <audio autoplay="autoplay" height="100" width="100">
+
+  <source src="1.mp3" type="audio/mp3" />
+
+  
+  
 一个 iOS SDK 开发者，喜欢研究一些新技术，喜欢学习，喜欢唱歌，喜欢写代码，喜欢一些小游戏，喜欢看书......
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
