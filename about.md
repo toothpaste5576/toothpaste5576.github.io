@@ -34,6 +34,21 @@ title: 关于呵呵哒！
 <p> 
 <img src="/images/3.gif" width="260" height="440" align="left"/>
 <p> 
+  
+<embed src="http://www.xiami.com/widget/0_1770124689/singlePlayer.swf"
+
+ type="application/x-shockwave-flash"
+
+ width="257"
+
+ height="33"
+
+ wmode="transparent">
+
+</embed>
+  
+  
+  
 <embed src="1.mp3" autostart="true" loop="-1" hidden="true" controls="controls" height="100" width="100"></embed>
 <p> 
 
